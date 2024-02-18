@@ -1,0 +1,105 @@
+body {
+	font-family: Lucida Console;
+	background-color: #cccccc;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+
+.footer {
+	background-color: #333333;
+	height: auto;
+	text-align: center;
+	color: #ffffff;
+	position: absolute;
+	width: 100%;
+	margin-top: 22%;
+}
+
+ul.topnav {
+	overflow: hidden;
+	background-color: #666666;
+}
+
+ul.topnav li {
+	display: inline-block;
+	width: 32%;
+	height: 50px;
+}
+
+ul.topnav li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.table {
+	margin-left: 50px;
+}
+
+.search-form {
+	margin-left: 50px;
+	width: 50%;
+}
+
+table {
+	text-align: center;
+	font-size: 15px;
+}
+
+th, td {
+	color: #000000;
+	text-align: center;
+	height: 30px;
+	border: 2px solid #cccccc;
+	padding: 10px;
+	width: 150px;
+	white-space: nowrap;
+}
+
+th {
+	background-color: #999999;
+}
+
+td {
+	background-color: #ffffff;
+}
+
+h2, label {
+	color: #000000;
+}
+
+.form {
+	width: 600px;
+	background-color: #cccccc;
+	margin-left: 50px;
+}
+
+#error {
+	left: 180px;
+}
+
+input[type=text] {
+	width: 300px;
+}
+
+input[type=checkbox], input[type=radiobutton] {
+	color: #000000;
+}
+
+input[type=submit], .button {
+	width: auto;
+	height: 35px;
+	border: 2px solid #cccccc;
+	background-color: #000000;
+	color: #ffffff;
+	font-size: 15px;
+	text-align: center;
+}
+
+input[type=date] {
+	width: 300px;
+	color: #000000;
+}
