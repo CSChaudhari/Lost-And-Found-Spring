@@ -36,17 +36,6 @@ To run LostAndFound locally on your machine, follow these steps:
 - **Search Found Item**: Users can search for found items based on various criteria such as location, category, etc.
 - **Claim Found Item**: If a user finds a match for their lost item, they can claim it by providing necessary verification details.
 
-## Contribution
-
-Contributions to LostAndFound are welcome! If you'd like to contribute, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and ensure the code style follows the project conventions.
-4. Write tests to cover your changes if applicable.
-5. Run existing tests and ensure they pass.
-6. Submit a pull request with a clear description of your changes.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
